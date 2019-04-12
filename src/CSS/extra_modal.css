@@ -1,0 +1,48 @@
+
+.btn-buy-custom {
+    color: #fff;
+    background-color: #007bff !important;
+    border-color: #06b1a5 !important;
+    background-image: -moz-linear-gradient( 93deg, rgb(11,66,114) 0%, rgb(28,147,182) 100%);
+    background-image: -webkit-linear-gradient( 93deg, rgb(11,66,114) 0%, rgb(28,147,182) 100%);
+    background-image: -ms-linear-gradient( 93deg, rgb(11,66,114) 0%, rgb(28,147,182) 100%);
+    box-shadow: 0px 0px 30px 0px rgba(6, 177, 165, 0.34);
+    padding: 0.5rem 2rem !important;
+    font-size: 1.25rem;
+    /* line-height: 1.5; */
+    border-radius: 5rem !important;
+
+}
+
+.modal-content {
+    background-image: -moz-linear-gradient( 93deg, rgb(11, 31, 47) 0%, rgb(31, 45, 49) 100%) !important;    
+    background-image: -webkit-linear-gradient( 93deg, rgb(11, 31, 47) 0%, rgb(31, 45, 49) 100%) !important;
+    background-image: -ms-linear-gradient( 93deg, rgb(11, 31, 47) 0%, rgb(31, 45, 49) 100%) !important;
+    border-color: rgb(35, 107, 127) !important;
+    border-radius: 12px !important;
+    color: #ffffff !important;
+}
+
+.modal-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid rgb(35, 107, 127) !important;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+.modal-header .close {
+    color: #fff !important;
+    opacity: .8;
+}
+
+.modal-footer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-top: 1px solid  rgb(35, 107, 127) !important;
+}
+
