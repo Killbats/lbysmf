@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f44e7c5f4cd0f84d28e619901313f154",
-    "url": "/lbysmf/static/media/Layer 4.f44e7c5f.png"
+    "revision": "68f4f743236327408214974e34d57317",
+    "url": "/lbysmf/static/media/Viu_logo.68f4f743.png"
   },
   {
-    "revision": "671c0158b456c66fc4b4",
-    "url": "/lbysmf/static/css/main.f36d855a.chunk.css"
+    "revision": "f1b96757f2cefd11baf7",
+    "url": "/lbysmf/static/css/main.bc95ce0d.chunk.css"
   },
   {
     "revision": "3a167710e60f54071ca2",
@@ -16,12 +16,8 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/My_ID_is_Gangnam_Beauty_180704.da867118.jpg"
   },
   {
-    "revision": "ba09b8c9915137969b7e",
-    "url": "/lbysmf/static/js/2.5cb7e5a1.chunk.js"
-  },
-  {
-    "revision": "810041375d636c1c90bf9f54ad7df8c3",
-    "url": "/lbysmf/static/media/logo.81004137.png"
+    "revision": "72817cff9d21bf81a918",
+    "url": "/lbysmf/static/js/2.74bb2443.chunk.js"
   },
   {
     "revision": "3272f4051fc68be25428878c3cdfc791",
@@ -32,16 +28,20 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/Layer 3.995c95c4.png"
   },
   {
-    "revision": "671c0158b456c66fc4b4",
-    "url": "/lbysmf/static/js/main.d1f26f1b.chunk.js"
+    "revision": "f44e7c5f4cd0f84d28e619901313f154",
+    "url": "/lbysmf/static/media/Layer 4.f44e7c5f.png"
   },
   {
-    "revision": "68f4f743236327408214974e34d57317",
-    "url": "/lbysmf/static/media/Viu_logo.68f4f743.png"
+    "revision": "f1b96757f2cefd11baf7",
+    "url": "/lbysmf/static/js/main.83b942db.chunk.js"
   },
   {
     "revision": "c0d953706f18dcf5106c156ae1b02d52",
     "url": "/lbysmf/static/media/93c42206-3d69-477d-8e8a-c1eacfe548b0.c0d95370.jpg"
+  },
+  {
+    "revision": "810041375d636c1c90bf9f54ad7df8c3",
+    "url": "/lbysmf/static/media/logo.81004137.png"
   },
   {
     "revision": "2e96f1a909bcd139d3e5b4eaaa1a69ab",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/COCO_900x600.87ddada1.jpg"
   },
   {
-    "revision": "ba09b8c9915137969b7e",
+    "revision": "72817cff9d21bf81a918",
     "url": "/lbysmf/static/css/2.c844a508.chunk.css"
   },
   {
-    "revision": "b3f64271bea92b8dcff9d0b7c9b82ab6",
+    "revision": "64d27cdc0f4c867d89b09b78ccc2c1a2",
     "url": "/lbysmf/index.html"
   }
 ];
