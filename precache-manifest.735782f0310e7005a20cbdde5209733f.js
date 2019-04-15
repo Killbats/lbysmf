@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/Layer 4.f44e7c5f.png"
   },
   {
-    "revision": "9437144435b0fa8b8377",
-    "url": "/lbysmf/static/css/main.a04b4b07.chunk.css"
+    "revision": "671c0158b456c66fc4b4",
+    "url": "/lbysmf/static/css/main.f36d855a.chunk.css"
   },
   {
     "revision": "3a167710e60f54071ca2",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/My_ID_is_Gangnam_Beauty_180704.da867118.jpg"
   },
   {
-    "revision": "fba95b3eb66494fd995d",
-    "url": "/lbysmf/static/js/2.60ead6fe.chunk.js"
+    "revision": "ba09b8c9915137969b7e",
+    "url": "/lbysmf/static/js/2.5cb7e5a1.chunk.js"
   },
   {
     "revision": "810041375d636c1c90bf9f54ad7df8c3",
@@ -32,12 +32,16 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/Layer 3.995c95c4.png"
   },
   {
-    "revision": "9437144435b0fa8b8377",
-    "url": "/lbysmf/static/js/main.ec6b2e13.chunk.js"
+    "revision": "671c0158b456c66fc4b4",
+    "url": "/lbysmf/static/js/main.d1f26f1b.chunk.js"
   },
   {
     "revision": "68f4f743236327408214974e34d57317",
     "url": "/lbysmf/static/media/Viu_logo.68f4f743.png"
+  },
+  {
+    "revision": "c0d953706f18dcf5106c156ae1b02d52",
+    "url": "/lbysmf/static/media/93c42206-3d69-477d-8e8a-c1eacfe548b0.c0d95370.jpg"
   },
   {
     "revision": "2e96f1a909bcd139d3e5b4eaaa1a69ab",
@@ -56,11 +60,11 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/COCO_900x600.87ddada1.jpg"
   },
   {
-    "revision": "fba95b3eb66494fd995d",
+    "revision": "ba09b8c9915137969b7e",
     "url": "/lbysmf/static/css/2.c844a508.chunk.css"
   },
   {
-    "revision": "72d17237fd8d016f9a0a07e109ead06b",
+    "revision": "b3f64271bea92b8dcff9d0b7c9b82ab6",
     "url": "/lbysmf/index.html"
   }
 ];
