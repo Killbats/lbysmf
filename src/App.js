@@ -21,10 +21,10 @@ class App extends Component {
 
         <div>
             <Switch>
-            <Route exact path="/" component={Home} /> 
+            <Route exact path="/" component={MainPayment} /> 
             <Route path="/Payment" component={Payment} />
             <Route path="/Video" component={Video}/>
-            <Route path="/MainPayment" component={MainPayment}/>
+            {/* <Route path="/MainPayment" component={MainPayment}/> */}
             </Switch>
         </div>
 
