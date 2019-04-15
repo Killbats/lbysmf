@@ -5,7 +5,7 @@ import images from './PIC/Logo/logo.png';
 import Home from './Component/Home';
 import Payment from './Component/Payment';
 import Video from './Component/Video';
-
+import MainPayment from './Component/MainPayment';
 
 class App extends Component {
   render() {
@@ -24,6 +24,7 @@ class App extends Component {
             <Route exact path="/" component={Home} /> 
             <Route path="/Payment" component={Payment} />
             <Route path="/Video" component={Video}/>
+            <Route path="/MainPayment" component={MainPayment}/>
             </Switch>
         </div>
 
