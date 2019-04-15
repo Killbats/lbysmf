@@ -10,26 +10,26 @@ import MainPayment from './Component/MainPayment';
 class App extends Component {
   render() {
     return (
-      // <Router>
-      //   <div >
-      //       <header class="App-Header">
-      //       <a href="/MainPayment">
-      //       <img class="imghead" src={images}/>
-      //       </a>
-      //       </header>
-      //   </div>
+      <Router>
+        <div >
+            <header class="App-Header">
+            <a href="/MainPayment">
+            <img class="imghead" src={images}/>
+            </a>
+            </header>
+        </div>
 
-      //   <div>
-      //       <Switch>
-      //       <Route exact path="/" component={Home} /> 
-      //       <Route path="/Payment" component={Payment} />
-      //       <Route path="/Video" component={Video}/>
-      //       <Route path="/MainPayment" component={MainPayment}/>
-      //       </Switch>
-      //   </div>
+        <div>
+            <Switch>
+            <Route exact path="/" component={Home} /> 
+            <Route path="/Payment" component={Payment} />
+            <Route path="/Video" component={Video}/>
+            <Route path="/MainPayment" component={MainPayment}/>
+            </Switch>
+        </div>
 
-      // </Router>
-      <div> <h1> Welcome </h1></div>
+      </Router>
+      // <div> <h1> Welcome </h1></div>
     );
   }
 }
