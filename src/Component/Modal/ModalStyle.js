@@ -18,7 +18,7 @@ export default {
       bottom: 0,
       padding: 0,
       backgroundColor: 'rgba(0, 0, 0, 0.7)',
-      zIndex: '9999',
+      zIndex: '2',
       opacity: 1,
       animation: 'show .5s linear',
       overflowX: 'hidden',

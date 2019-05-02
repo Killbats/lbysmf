@@ -51,7 +51,7 @@ const marg2={
 }
 
 
-const MainPayment = (classes) => {
+const MainPayment = () => {
     return (
         <div>
             <br/>
@@ -63,7 +63,7 @@ const MainPayment = (classes) => {
                     
                     <div style={margin1}>
                     <SimpleModalLauncher buttonLabel="Rp. 12.000">
-                        <div className={classes.textModal}>
+                        <div>
                             <h4 style={marg1}>Google Play</h4>
                             <hr/>
                             <p1 style={marg2}>
@@ -81,7 +81,7 @@ const MainPayment = (classes) => {
                             
                             
                             <div>
-                           <a href="/Payment"><button class="btnsty1">CHANGE PAYMENT</button></a>
+                           <a href="/Payment"><button className="btnsty1">CHANGE PAYMENT</button></a>
                            </div>
                         </div>
                     </SimpleModalLauncher>

@@ -29,7 +29,7 @@ const Payment = () => {
 
 {/* UANGKU */}
  <div className="inst inst2">    
-  <a class="wide"  href="intent://scan/#Intent;scheme=app;package=com.gojek.app;end"   >
+  <a className="wide"  href="intent://scan/#Intent;scheme=app;package=com.gojek.app;end"   >
       <img 
       className='imge'
       src={images1} 
@@ -39,11 +39,11 @@ const Payment = () => {
     
 {/* OVO */}
 
-    <div class="inst inst2">
-      <a class="wide" href="intent://twitter.com/granbluefantasy#Intent;package=com.twitter.android;scheme=https;end">
+    <div className="inst inst2">
+      <a className="wide" href="intent://twitter.com/granbluefantasy#Intent;package=com.twitter.android;scheme=https;end">
       <img
       style={styleimg}
-      class="imge" 
+      className="imge" 
       src={images2}
       alt="ovo"/>
       </a> 
@@ -51,23 +51,23 @@ const Payment = () => {
 
 {/* GOPAY */}
 
-<div class="inst inst2">
+<div className="inst inst2">
   
-      <a class="wide" href="https://www.google.com/">
+      <a className="wide" href="https://www.google.com/">
           <img 
           style={styleimg1}
-          class="imge" 
+          className="imge" 
           src={images3} 
           alt="gopay"/>
           </a>
 </div>
     
 
-<div class="inst inst2">
+<div className="inst inst2">
   
-  <a class="wide" href="https://www.google.com/">
+  <a className="wide" href="https://www.google.com/">
       <img 
-      class="imge" 
+      className="imge" 
       src={images4} 
       alt="DANA"/>
       </a>

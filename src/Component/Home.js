@@ -1,16 +1,14 @@
-import React from "react";
+import React, { Component } from "react";
+import LbsLandingPageList from "./LbsLandingPage";
 
-const style1={
-  textAlign:'center',
-  fontSize:'24px'
+class Home extends Component {
+  render() {
+    return (
+      <div>
+        
+      </div>
+    );
+  }
 }
-
-const Home = () => {
-  return (
-    <div>
-      <p style={style1}>Welcome to ....</p>
-    </div>
-  );
-};
 
 export default Home;

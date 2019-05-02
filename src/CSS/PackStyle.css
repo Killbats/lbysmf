@@ -2,9 +2,8 @@
 
 .imgstyle{
     width: 100%;
-    max-width: 700px;
     height: 100%;
-    
+    max-height: 750px;
 }  
 
 .container{
@@ -12,7 +11,7 @@
     margin-bottom: 25px;
     margin-left: auto;
     margin-right: auto;
-    height: 100px;  
+    height: 100px;      
     width: 100%;
     max-width: 800px;
     display: flex;
@@ -137,3 +136,18 @@ color:#f5b919;
 padding-left: 10px;
 padding-right:10px;
 }
+
+
+.vidsize{
+    height: 600px;
+    
+}
+
+@media (max-width:500px){
+    .vidsize{
+        height: 215px;
+    }
+}
+
+
+ 

@@ -1,6 +1,33 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+// import { ApolloProvider } from 'react-apollo';
+// import ApolloClient from 'apollo-client';
+// import {WebSocketLink} from 'apollo-link-ws';
+// import { InMemoryCache } from 'apollo-cache-inmemory';
+// import * as environment from "./environment.js";
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import * as serviceWorker from './serviceWorker';np
+
+
+ReactDOM.render(<App />, document.getElementById('root'))
+// registerServiceWorker()
+
+
+
+
+
+
+
+
+
+// first backup
+
+
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 import { ApolloProvider } from 'react-apollo';
 import ApolloClient from 'apollo-client';
 import {WebSocketLink} from 'apollo-link-ws';

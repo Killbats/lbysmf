@@ -1,0 +1,23 @@
+.but{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.imggplay{
+    width: 100%;
+    max-width: 150px;
+}
+
+.imgios{
+    margin-top: 8px;
+    width: 125px;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
