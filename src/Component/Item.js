@@ -1,5 +1,5 @@
 import React from 'react';
-import VidLaunchModal from './TestModal/VidLaunchModal';
+import VidLaunchModal from './Modalfor/VidLaunchModal';
 
 const Item = ({title, buyOption}) =>{
     return (
