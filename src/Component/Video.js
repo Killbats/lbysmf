@@ -8,13 +8,13 @@ import Banner2 from '../PIC/main_banner/Lovely_Horribly_1592x1124.jpg';
 import Banner3 from '../PIC/main_banner/viu_x_smartfren-low.mp4';
 import Banner5 from '../PIC/main_banner/COCO_900x600.jpg';
 import Banner4 from '../PIC/main_banner/My_ID_is_Gangnam_Beauty_180704.jpg';
-import VidLaunchModal from './TestModal/VidLaunchModal';
+import VidLaunchModal from './Modalfor/VidLaunchModal';
 import Carousel from 'nuka-carousel';
 import {graphql} from 'react-apollo';
-// import {lbsLandingPagesList} from './Query/quer';
+import {lbsLandingPagesList} from './Query/quer';
 // import { get } from 'https';
 import Property from './Item';
-import LbsLandingPage from './LbsLandingPage';
+// import {LbsLandingPage} from './LbsLandingPage';
 
 const keyword = [ 'HOOQSF1', 'HOOQSF7', 'HOOQSF30'];
 
@@ -302,7 +302,7 @@ render() {
 
 // }
 
-export default graphql(LbsLandingPage)(Video);
+export default graphql(lbsLandingPagesList)(Video);
 // export default Video;
 
 
