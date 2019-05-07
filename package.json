@@ -11,6 +11,7 @@
     "apollo-client": "^2.5.1",
     "apollo-link-state": "^0.4.2",
     "apollo-link-ws": "^1.0.17",
+    "chokidar": "^3.0.0",
     "create": "0.0.2",
     "from": "^0.1.7",
     "gh-pages": "^2.0.1",
