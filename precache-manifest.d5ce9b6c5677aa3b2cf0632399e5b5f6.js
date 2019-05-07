@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/Layer 4.f44e7c5f.png"
   },
   {
-    "revision": "850325eab70403d73ca1",
-    "url": "/lbysmf/static/css/main.e4da0393.chunk.css"
+    "revision": "1f061ae7fde6884bbc0c",
+    "url": "/lbysmf/static/css/main.7eb59843.chunk.css"
   },
   {
     "revision": "3a167710e60f54071ca2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/My_ID_is_Gangnam_Beauty_180704.da867118.jpg"
   },
   {
-    "revision": "cce6584c6ceab620b823",
+    "revision": "96d6cec8cd32620986f8",
     "url": "/lbysmf/static/js/2.d987d35c.chunk.js"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/Layer 3.995c95c4.png"
   },
   {
-    "revision": "850325eab70403d73ca1",
+    "revision": "1f061ae7fde6884bbc0c",
     "url": "/lbysmf/static/js/main.c7cbdfa6.chunk.js"
   },
   {
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/lbysmf/static/media/COCO_900x600.87ddada1.jpg"
   },
   {
-    "revision": "cce6584c6ceab620b823",
-    "url": "/lbysmf/static/css/2.968be621.chunk.css"
+    "revision": "96d6cec8cd32620986f8",
+    "url": "/lbysmf/static/css/2.b457522d.chunk.css"
   },
   {
-    "revision": "4078c4778552fdf19e56cab5c51f167a",
+    "revision": "301cf2cad202d7801b3299e501d2fbf7",
     "url": "/lbysmf/index.html"
   }
 ];
